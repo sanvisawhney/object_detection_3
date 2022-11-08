@@ -1,0 +1,47 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    font-size: 40px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 5px lightpink;
+    letter-spacing: 3px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.link{
+    background-color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 20px;
+    list-style: none;
+    width: 250px;
+    font-family: roboto;
+    color: rgb(105, 105, 236);
+}
+
+a:hover{
+    font-size: 23px;
+}
+
+.back{
+    float: right;
+    margin-right: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding-inline: 20px;
+    padding-block: 10px;
+    margin-top: 40px;
+    text-decoration: none;
+    list-style: none;
+}
+
+canvas{
+    border-radius: 12px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 120px;
+}
